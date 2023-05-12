@@ -1,6 +1,6 @@
 <div align="center">
 	<a href="(https://github.com/MurilloCouto/Landing-Page-DNC)" target="_blank">
-		<img src="" alt="IntroImage" width="50%"/>
+		<img src="IntroLandingPageIMG.png" alt="IntroImage" width="50%"/>
 	</a>
 </div>
 
@@ -9,7 +9,7 @@
 </div>
 
 ### O que é? 🤔
-descriçao do site
+Site de captura de possíveis clientes para um determinado serviço, foi utilizado html, css e javascript, integrados ao Google Sheets o qual armazena em uma planilha todos os clientes que inserem suas informações para obter a ementa do curso divulgado no site.
 <hr>
 
 ### Quais tecnologias foram usadas? 💻
